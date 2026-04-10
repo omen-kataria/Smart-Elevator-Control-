@@ -56,7 +56,3 @@ Useful for:
 - Academic work  
 
 ---
-
-## Author
-
-Gaurav Kataria
